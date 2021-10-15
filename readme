@@ -1,0 +1,9 @@
+Covid-19 Data Exploration
+---------------------------------
+
+Dataset Source: https://ourworldindata.org
+Dataset Name: Coronavirus (COVID-19) - Deaths 
+----------------------------------------------
+
+Data preparation:
+ - Data cleaning using Excel (wrong cell data types)
